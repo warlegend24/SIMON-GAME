@@ -72,7 +72,7 @@ function checkAnswer(currentLevel){
 
             setTimeout(function (){
                 nextSequence();
-            },1100);
+            },1200);
     
         }
         
